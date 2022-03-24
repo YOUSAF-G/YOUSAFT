@@ -113,7 +113,7 @@ def reg2():
     print ' Your id: ' + id
     print ''
     raw_input(' Press enter to go to Whatsapp ')
-    os.system('xdg-open https://wa.me/+923181483064')
+    os.system('xdg-open https://wa.me/+923006143108')
     sav = open('/sdcard/.hst.txt', 'w')
     sav.write(id)
     sav.close()
