@@ -100,7 +100,7 @@ def reg():
         print ' \033[1;92mCopy the id and send to admin'
         print ' \033[1;92mYour id: ' + to
         raw_input('\033[1;93m Press enter to send id')
-        os.system('xdg-open https://wa.me/+923181483064')
+        os.system('xdg-open https://wa.me/+923006143108')
         reg()
 
 
