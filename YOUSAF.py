@@ -68,7 +68,7 @@ print("""\033[1;97m  L E G E N D -- YOUSAF .X. KHAN. \033[1;0m
 \033[1;94m➤\033[1;97m Author : Mr-YOUSAFS
 \033[1;92m➤\033[1;97m Github : YousafXKhan
 \033[1;93m➤\033[1;97m Facebook : Yousaf Khan
-\033[1;95m➤\033[1;97m Whatsapp : 03181483064
+\033[1;95m➤\033[1;97m Whatsapp : 03006143108
 \033[1;97m  --------------------------------------------------""")   
         
 def reg():
